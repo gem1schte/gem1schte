@@ -12,7 +12,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gem1schte&show_icons=true&locale=en" alt="gem1schte" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gem1schte&" alt="gem1schte" /></p>
+<p><img align="center" src="https://opreviews.anime-pictures.net/d9a/d9a2652f7557a88c234d8dd6924d2d35_cp.png" alt="gem1schte" /></p>
 
 
 <!--
